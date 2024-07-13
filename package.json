@@ -1,0 +1,18 @@
+{
+  "name": "fem-stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server",
+    "sass": "sass -w src:src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.77.8"
+  }
+}
